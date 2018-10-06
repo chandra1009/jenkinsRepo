@@ -4,3 +4,7 @@
      file:
        path: /tmp/data
        state: directory
+
+   -  copy:
+         content: "Jenkins Intregration"
+         dest: /tmp/data/abc.txt
