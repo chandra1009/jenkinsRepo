@@ -7,4 +7,4 @@
 
    -  copy:
          content: "Jenkins Intregration"
-         dest: /tmp/data/abc.txt
+         dest: /tmp/data/abcd.txt
