@@ -3,4 +3,4 @@
    - name: create directory
      file:
        path: /tmp/test
-       state: Directory
+       state: directory
